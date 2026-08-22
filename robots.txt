@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-gpah4f.rajabandot77jpg.lat/sitemap.xml
